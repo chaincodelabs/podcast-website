@@ -4,9 +4,15 @@ tags:
   - Bitcoin Core
   - p2p
   - consensus
+  - testing
+  - utxos
 ---
 
 For our first episode, we talked to Bitcoin Core contributor Pieter Wuille.
+
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Episode-1-Pieter-Wuille-part-1-of-2-eafbg2/a-a1c8vj9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[anchor.fm](https://anchor.fm/chaincode/episodes/Episode-1-Pieter-Wuille-part-1-of-2-eafbg2)
 
 [Pieter](https://twitter.com/pwuille) has been a Bitcoin protocol developer and
 contributor to Bitcoin Core since 2011. In that time, he's authored or
@@ -21,9 +27,12 @@ in 2020.
 
 ## Discussed in this episode
 
-- [Headers-first syncing](https://github.com/bitcoin/bitcoin/pull/4468)
-- [Ultraprune](https://github.com/bitcoin/bitcoin/pull/1677)
-- March 2013 Consensus Fork:
+- 3:30 - [Headers-first syncing](https://github.com/bitcoin/bitcoin/pull/4468)
+- 13:00 - Tracking peer state and finding good peers
+- 18:11 - How Bitcoin Core development culture has changed in the last 9 years
+- 19:00 - Testing Bitcoin Core 
+- 21:55 - [Ultraprune](https://github.com/bitcoin/bitcoin/pull/1677)
+- 26:50 - March 2013 Consensus Fork:
   - [March 2013 Chain Fork Post-Mortem](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki)
   - [Analyzing the 2013 Bitcoin fork](https://freedom-to-tinker.com/2015/07/28/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
 
