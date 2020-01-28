@@ -27,12 +27,12 @@ in 2020.
 
 ## Discussed in this episode
 
-- 3:30 - [Headers-first syncing](https://github.com/bitcoin/bitcoin/pull/4468)
-- 13:00 - Tracking peer state and finding good peers
-- 18:11 - How Bitcoin Core development culture has changed in the last 9 years
-- 19:00 - Testing Bitcoin Core 
-- 21:55 - [Ultraprune](https://github.com/bitcoin/bitcoin/pull/1677)
-- 26:50 - March 2013 Consensus Fork:
+- [Headers-first syncing](https://github.com/bitcoin/bitcoin/pull/4468) (3:30)
+- Tracking peer state and finding good peers (13:00)
+- How Bitcoin Core development culture has changed in the last 9 years (18:11)
+- Testing Bitcoin Core (19:00)
+- [Ultraprune](https://github.com/bitcoin/bitcoin/pull/1677) (21:55)
+- March 2013 Consensus Fork (26:50):
   - [March 2013 Chain Fork Post-Mortem](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki)
   - [Analyzing the 2013 Bitcoin fork](https://freedom-to-tinker.com/2015/07/28/analyzing-the-2013-bitcoin-fork-centralized-decision-making-saved-the-day/)
 
