@@ -5,7 +5,7 @@ tags:
   - Payment Points
 ---
 
-In Episode 7, we chat with [Nadav Kohen](https://twitter.com/nadav_kohen) of [suredbits](https://twitter.com/suredbits) and discuss payment points as an alternative to HTLCs on the Lightning Network.
+In Episode 7, we chat with [Nadav Kohen](https://twitter.com/nadav_kohen) of [Suredbits](https://suredbits.com/) and discuss payment points as an alternative to HTLCs on the Lightning Network.
 
 <iframe src="https://anchor.fm/chaincode/embed/episodes/XXXX" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -23,7 +23,7 @@ In this conversation we cover:
 - Point time lock contracts (PTLCs) (9:50)
   - [Adaptor signatures on Schnorr](https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-05-milan-meetup/slides.pdf)
 - [Proof of payment](https://github.com/lightningnetwork/lightning-rfc/blob/master/11-payment-encoding.md#tagged-fields) (13:25)
-- [Invoiceless transactions](https://bitcoin.stackexchange.com/questions/83600/how-do-sphinx-invoice-less-payments-on-the-lightning-network-work) (15:05)
+- [Invoiceless transactions](https://bitcoinops.org/en/topics/spontaneous-payments/) (15:05)
 - Hashes, pre-images, and HTLC mechanics (16:35)
 - Onion analogy (18:55)
 - PTLC mechanics (19:30)
