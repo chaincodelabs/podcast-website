@@ -7,9 +7,9 @@ tags:
 
 In Episode 7, we chat with [Nadav Kohen](https://twitter.com/nadav_kohen) of [Suredbits](https://suredbits.com/) and discuss payment points as an alternative to HTLCs on the Lightning Network.
 
-<iframe src="https://anchor.fm/chaincode/embed/episodes/XXXX" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Nadav-Kohen-and-Payment-Points---Episode-7-ec5tab" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](https://anchor.fm/chaincode/episodes/XXXX)
+[anchor.fm](https://anchor.fm/chaincode/episodes/Nadav-Kohen-and-Payment-Points---Episode-7-ec5tab)
 
 In this conversation we cover:
 
