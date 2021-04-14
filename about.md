@@ -1,6 +1,5 @@
 ---
 title: "About"
-image: /assets/img/about.jpg
 layout: about
 ---
 
@@ -18,9 +17,10 @@ Bitcoin should be able enjoy and learn from the show.
 of Special Projects at Chaincode. He organizes our residencies, runs our
 sponsorship and outreach programs, and is in charge of hiring.
 
-[John Newbery](https://twitter.com/jfnewbery) cohosts the podcast and is a
-Bitcoin Protocol Engineer at Chaincode. He writes and reviews code, and helps
-with the residency, Bitdevs, Optech and other educational activities.
+[Mark "Murch" Erhardt](https://twitter.com/murchandamus) cohosts the podcast
+and is a Research Engineer at Chaincode. He writes and reviews code, and helps
+with [Bitcoin Optech](https://bitcoinops.org/) and other
+[educational activities](https://residency.chaincode.com/resources.html#resources).
 
 [Caralie Chrisco](https://twitter.com/CaralieCS) produces the podcast and is
 People Operations Manager at Chaincode. She works with Jonas on hiring and
