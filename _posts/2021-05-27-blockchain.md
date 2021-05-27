@@ -6,14 +6,14 @@ tags:
   - mining theory
 ---
 
-In this *Chaincode Decoded* segment we talk about the fundamental role of Bitcoin's blockchain and some of its pecularities.
+In this *Chaincode Decoded* segment we talk about the fundamental role of Bitcoin's blockchain and some of its peculiarities.
 
-<iframe src="TODO" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Chaincode-Decoded-The-Blockchain---Episode-14-e11n7tl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](#TODO-link-to-episode-14)
+[anchor.fm](https://anchor.fm/chaincode/episodes/Chaincode-Decoded-The-Blockchain---Episode-14-e11n7tl)
 
 - Purpose of the blockchain (0:40)
-- Mining is a lottery not a race (1:57)
+- Mining is a lottery, not a race (1:57)
 - Why doesn't the same miner always win? (5:12)
 - What happens if two blocks are found at the same height? (6:12)
 - The longest reorgs (9:11)
