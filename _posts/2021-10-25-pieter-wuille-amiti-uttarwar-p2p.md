@@ -32,25 +32,25 @@ Pieter and Amiti discuss:
 
 - [Connection exhaustion issue](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks#open-questions-and-areas-for-research) (19:50)
 
-- Erlay ([paper](https://arxiv.org/abs/1905.10518), [BIP](https://github.com/naumenkogs/bips/blob/bip_0330_updates/bip-0330.mediawiki) (20:55)
+- Erlay ([paper](https://arxiv.org/abs/1905.10518), [BIP](https://github.com/naumenkogs/bips/blob/bip_0330_updates/bip-0330.mediawiki)) (20:55)
 
 - AddrRelay (23:15)
-  - [Limiting blackholes PR]()
-  - [Rate limiting on address gossip in 22.0]() ()
-    - [Leaky bucket rate limiter]() (27:00)
+  - [Limiting addr black holes - PR #21528](https://github.com/bitcoin/bitcoin/pull/21528)
+  - [Rate limiting on address gossip in 22.0](https://github.com/bitcoin/bitcoin/pull/22387)
+    - [Leaky bucket rate limiter](https://en.wikipedia.org/wiki/Leaky_bucket) (27:00)
 
 - Address Spam (29:20)
 
 - Mateos Clinkman? 9 min in the future timestamp
   - 3135 - paper - who is the author?()
   - how many peers is this public node connected to?
-  - [Coin Scope paper]() (31:45)
-  - [TxProbe]() (32:00)
+  - [Coinscope paper](https://www.cs.umd.edu/projects/coinscope/coinscope.pdf) (31:45)
+  - [TxProbe](https://arxiv.org/abs/1812.00942) (32:00)
 
 - Seperate network stack (37:20)
 
 - Fingerprint attacks (37:15)
 
-- [ASMAP]() (39:00)
+- [ASMAP](https://blog.bitmex.com/call-to-action-testing-and-improving-asmap/) (39:00)
 
 Thanks to [Caralie](https://twitter.com/CaralieC/) for the sound engineering.
