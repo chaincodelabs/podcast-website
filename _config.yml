@@ -28,6 +28,8 @@ twitter:
   username: chaincodelabs
   image: /assets/img/ChaincodePodcast.jpg
 main_site: https://chaincode.com
+feed:
+  path: https://anchor.fm/s/12fe0620/podcast/rss
 logo: "/assets/img/logo.jpg"
 search: # true, false (default)
 search_full_content: false # true, false (default)

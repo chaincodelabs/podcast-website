@@ -20,9 +20,9 @@
 
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
-      <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">
+      <a href="https://anchor.fm/s/12fe0620/podcast/rss" title="RSS Feed">
         <span class="icon icon--rss">{% include icon-rss.svg %}</span>
-        <span class="label">{{ site.data.theme.t.subscribe | default: 'Subscribe' }}</span>
+        <span class="label">{{ site.data.theme.t.subscribe | default: 'RSS' }}</span>
       </a>
     {% endif %}
   </li>
