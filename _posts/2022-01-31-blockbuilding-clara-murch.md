@@ -6,9 +6,9 @@ tags:
 
 Postdoc Researcher [Clara](https://twitter.com/ClaraShik) joins Murch to discuss their block building research. They cover their [proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-May/019020.html), which outlines suggested improvements to the current Bitcoin Core block building algorithm using candidate sets.
 
-<iframe src="https://anchor.fm/chaincode/embed/episodes/XXX" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Block-Building-with-Clara-and-Murch-e1dmitu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](https://anchor.fm/chaincode/episodes/xxxxx)
+[anchor.fm](https://anchor.fm/chaincode/episodes/Block-Building-with-Clara-and-Murch-e1dmitu)
 
 Murch and Clara discuss:
 
