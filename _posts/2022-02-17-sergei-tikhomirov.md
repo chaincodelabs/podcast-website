@@ -7,7 +7,9 @@ tags:
 
 Postdoc Researcher [Sergei](https://twitter.com/serg_tikhomirov) joins Murch and Jonas to talk about channel balance probing in Lightning, privacy concerns in general, and the importance of researcher-developer collaboration.
 
-<!-- iframe and anchor link go here -->
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Sergei-Tikhomirov-and-Lightning-privacy-e1egh3e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[anchor.fm](https://anchor.fm/chaincode/episodes/Sergei-Tikhomirov-and-Lightning-privacy-e1egh3e)
 
 We discuss:
 
