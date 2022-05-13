@@ -8,9 +8,9 @@ tags:
 
 [Martin Zumsande](https://twitter.com/Lightlike1) joins us to tell us about the address spam in the summer of 2021 and his interests in AddrRelay and Bitcoin Core development.
 
-<iframe src="FIXME" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](FIXME)
+[anchor.fm](https://anchor.fm/chaincode/episodes/Martin-Zumsande-and-Address-Relay---Episode-20-e1if91d)
 
 We discuss with Martin:
 
@@ -21,6 +21,7 @@ We discuss with Martin:
 - What's the purpose of the Address Manager (AddrMan)? (9:33)
     - Peering differences to LN nodes (11:00)
     - [Ethan Heilman's talk on Network Partitioning Attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) (12:10)
+    - [Addrman and eclipse attacks](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Addrman-and-eclipse-attacks)
 - AddrRelay and the role of node addresses (12:55)
     - Getting connected to the network (13:37)
     - Self-announcements (14:25)
@@ -33,4 +34,4 @@ We discuss with Martin:
     - [Coinscope paper](https://www.cs.umd.edu/projects/coinscope/coinscope.pdf) (27:10)
 - Being a Bitcoin Core contributor (27:50)
 
-Thanks to [Emily](#FIXME) for the sound engineering.
+Thanks to Emily Kee for the sound engineering.
