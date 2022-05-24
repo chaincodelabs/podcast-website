@@ -1,5 +1,5 @@
 ---
-title: "Gloria Zhao & Package Relay"
+title: "Gloria Zhao and Package Relay"
 tags:
   - p2p
   - package-relay
@@ -7,11 +7,11 @@ tags:
   - knowledge-management
 ---
 
-Gloria Zhao talks with us about her package relay proposal.
+[Gloria Zhao](https://twitter.com/glozow) talks with us about her package relay proposal.
 
-<iframe src="TODO" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Gloria-Zhao-and-Package-Relay---Episode-21-e1j0ii3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](TODO)
+[anchor.fm](https://anchor.fm/chaincode/episodes/Gloria-Zhao-and-Package-Relay---Episode-21-e1j0ii3)
 
 - What's package relay? (1:04)
   - [Mailing List: Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-May/020493.html)
