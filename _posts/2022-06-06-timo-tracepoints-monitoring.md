@@ -10,9 +10,9 @@ tags:
 We catch up with [0xB10C](https://twitter.com/0xb10c) about monitoring
 pools and tracing code execution in nodes.
 
-<iframe src="⇒TODO⇐" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/0xB10C--Tracepoints-and-monitoring-the-Bitcoin-network-e1jipel" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](⇒TODO⇐)
+[anchor.fm](https://anchor.fm/chaincode/episodes/0xB10C--Tracepoints-and-monitoring-the-Bitcoin-network-e1jipel)
 
 Our topics:
 
