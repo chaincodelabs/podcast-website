@@ -1,5 +1,5 @@
 ---
-title: "Josie Baker, the Bitcoin Core wallet and wrangling bitcoin data"
+title: "Josie, the Bitcoin Core wallet and wrangling bitcoin data"
 tags:
   - mempool
   - data science
