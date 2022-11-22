@@ -1,5 +1,5 @@
 ---
-title: "Josie, the Bitcoin Core wallet and wrangling bitcoin data"
+title: "Clara and Sergei – solving Lightning jamming"
 tags:
   - Lightning
   - jamming
