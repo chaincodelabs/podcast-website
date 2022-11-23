@@ -6,13 +6,13 @@ tags:
   - research
 ---
 
-Clara and Sergei join Murch and Jonas to talk about their [recent proposal](https://research.chaincode.com/2022/11/15/unjamming-lightning/) on mitigating jamming attacks in the Lightning Network. We talk unconditional fees, local reputation, the impact on decentralization and UX, and the state of Lightning in general.
+Clara and Sergei drop by to chat about their [recent proposal](https://research.chaincode.com/2022/11/15/unjamming-lightning/) on mitigating jamming attacks in the Lightning Network. We talk unconditional fees, local reputation, the impact on decentralization and UX, and the state of Lightning in general.
 
-<iframe src="https://anchor.fm/chaincode/embed/episodes/XXXX" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Clara-Shikhelman-and-Sergei-Tikhomirov-and-Channel-Jamming-on-the-Lightning-Network---Episode-25-e1r78n4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](https://spotifyanchor-web.app.link/e/XXXXXXXX)
+[anchor.fm](https://spotifyanchor-web.app.link/e/yehMQ6ghcvb)
 
-- The state of Lightning (00:41)
+We discuss:
 - What is jamming and why is it free? (03:28)
 - How our jamming project started (06:29)
 - Prior work on jamming (07:45)
@@ -29,7 +29,6 @@ Clara and Sergei join Murch and Jonas to talk about their [recent proposal](http
 - Reviews and feedback so far (34:02)
 - Future research ideas (34:40)
 - Privacy-preserving reputation (37:18)
-- "We've been jammed!" (41:42)
 
 Additional resources:
 - [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md)
