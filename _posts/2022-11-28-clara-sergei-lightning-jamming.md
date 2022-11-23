@@ -30,3 +30,10 @@ Clara and Sergei join Murch and Jonas to talk about their [recent proposal](http
 - Future research ideas (34:40)
 - Privacy-preserving reputation (37:18)
 - "We've been jammed!" (41:42)
+
+Additional resources:
+- [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md)
+- [Preventing Channel Jamming](https://blog.bitmex.com/preventing-channel-jamming/)
+- [Bitcoin Optech: Channel jamming attacks](https://bitcoinops.org/en/topics/channel-jamming-attacks/)
+- [The impacts of channel jamming](https://jamming-dev.github.io/book/1-impacts.html)
+- [Bitcoin problems: Channel balance probing](https://bitcoinproblems.org/problems/channel-balance-probing.html)
