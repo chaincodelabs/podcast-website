@@ -11,7 +11,7 @@ We continue the conversation with [Pieter Wuille](https://twitter.com/pwuille) a
 
 If you have not tuned into the first part of this conversation, we recommend listening to [that one](/2022/12/15/pieter-wuille-tim-ruffing-schnorr-musig-part1) first.
 
-<iframe src="https://anchor.fm/chaincode/episodes/Pieter-Wuille-and-Tim-Ruffing---Nesting--ROAST--Half-Aggregation--Adaptor-Signatures-part-2-e1sdgjf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/chaincode/embed/episodes/Pieter-Wuille-and-Tim-Ruffing---Nesting--ROAST--Half-Aggregation--Adaptor-Signatures-part-2-e1sdgjf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [anchor.fm](https://anchor.fm/chaincode/episodes/Pieter-Wuille-and-Tim-Ruffing---Nesting--ROAST--Half-Aggregation--Adaptor-Signatures-part-2-e1sdgjf)
 
