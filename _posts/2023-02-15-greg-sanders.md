@@ -14,7 +14,7 @@ tags:
 
 We cover:
 
-- Package relay (2:07)
+- [Package relay](https://bitcoinops.org/en/topics/package-relay/) (2:07)
 
 - [Pinning attacks](https://bitcoinops.org/en/topics/transaction-pinning/) (3:14)
   - CPFP 
@@ -42,7 +42,7 @@ We cover:
 - Softfork and activation history (28:11)
   - Author should be different than the champion 
 
-- Ephemeral anchors (32:18)
+- [Ephemeral anchors](https://bitcoinops.org/en/topics/ephemeral-anchors/) (32:18)
   - [op_2 email from Luke](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-May/015945.html)
   - A business use case for ephemeral anchors
 
