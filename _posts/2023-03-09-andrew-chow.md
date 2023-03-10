@@ -9,9 +9,9 @@ tags:
 ---
 [Andrew Chow](https://twitter.com/achow101) joins us to discuss Bitcoin Core wallet development, PSBT, Output Descriptors, and HWI.
 
-<iframe src="TODO" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/chaincode/embed/episodes/Andrew-Chow-and-the-Bitcoin-Core-Wallet---Episode-30-e204vdj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](TODO)
+[anchor.fm](https://spotifyanchor-web.app.link/e/g8UVR2aC2xb)
 
 We cover:
 
@@ -20,8 +20,8 @@ We cover:
     - Should we rewrite the wallet? (10:30)
     - Changes to Coin Selection (11:35)
 - Wallet interoperability (17:10)
-    - [HWI](https://bitcoinops.org/en/topics/hwi/) (18:20)
-    - [PSBT](https://bitcoinops.org/en/topics/psbt/) (19:01)
+    - [Hardware Wallet Integration (HWI)](https://bitcoinops.org/en/topics/hwi/) (18:20)
+    - [Partially Signed Bitcoin Transactions (PSBTs)](https://bitcoinops.org/en/topics/psbt/) (19:01)
 - Becoming Maintainer (22:06)
 - Tracking the UTXO pool (23:43)
 - Main components of the Bitcoin Core Wallet (26:00)
