@@ -7,9 +7,9 @@ tags:
 ---
 [Elle Mouton](https://twitter.com/ellemouton) and [Oliver Gugger](https://twitter.com/guggero) join us to talk with us about the Simple Taproot Channel proposal.
 
-<iframe src="todo" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/chaincode/embed/episodes/Elle-Mouton--Oliver-Gugger-and-Simple-Taproot-Channels---Episode-33-e2724sl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-[anchor.fm](TODO)
+[anchor.fm](https://spotifyanchor-web.app.link/e/OLL4cgXZvBb)
 
 We cover:
 
